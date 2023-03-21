@@ -34,5 +34,6 @@ img {
 }
 .main{
 	font-size:14px;
-	align-items:center;
+/* 	align-items:center; */
+	text-align-last: center;
 }
