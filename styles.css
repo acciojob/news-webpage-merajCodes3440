@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+
+.nav{
+	background-color: #011e29;
+	height:75px;
+	color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.container{
+	display:flex;
+	gap:15px;
+	margin:20px;
+	padding:10px;
+}
+.latest{
+	width:400px;
+}
+h4{
+	text-align:center;
+	font-size:13px;
+}
+
+ul{
+	padding:12px;
+	font-size:12px;
+	text-align:center;
+}
+img {
+	width:100px;
+	height:75px;
+}
+.main{
+	font-size:14px;
+	align-items:center;
+}
