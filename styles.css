@@ -6,7 +6,7 @@ header{
 	color:white;
 	display:flex;
 	justify-content:center;
-	align-items:center;
+	text-align:center;
 }
 .container{
 	display:flex;
@@ -15,7 +15,7 @@ header{
 	padding:10px;
 	
 }
-.latest{
+.latest-news-section{
 	width:400px;
 	background-color:#f5f5f5;
 }
